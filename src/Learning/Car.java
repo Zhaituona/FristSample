@@ -26,3 +26,4 @@ public class Car {
         System.out.println(model);
     }
 }
+// 5+5 = 10
